@@ -21,3 +21,5 @@ trial serveral commits
 1. one
 2. two
 3. three
+
+this paragraph will be reseted
